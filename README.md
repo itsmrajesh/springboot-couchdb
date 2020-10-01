@@ -1,5 +1,7 @@
 # Spring Boot Couch DB
 
+### Spring Boot Version: 2.3.4.RELEASE
+
 ## Create an Index for Query Operations
 
 We must create an index if we intent to support query operations such as:
