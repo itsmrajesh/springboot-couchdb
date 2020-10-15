@@ -1,4 +1,4 @@
-# Spring Boot Couch DB
+# Spring Boot CouchBase using sping-data-JPA
 
 ### Spring Boot Version: 2.3.4.RELEASE
 
